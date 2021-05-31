@@ -1,0 +1,9 @@
+.bar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  box-shadow: rgba(136, 144, 168, 0.822) 1px 1px 13px 1px;
+  position: fixed;
+  z-index: 1;
+  width: 100%;
+}
