@@ -1,5 +1,5 @@
 import React from "react";
-import { Form, FormControl, Button, Navbar } from "react-bootstrap";
+import { Form, FormControl, Navbar } from "react-bootstrap";
 import "./NavBar.css";
 import Addmovie from "./Addmovie";
 import RateStars from "./RateStars";

@@ -16,23 +16,23 @@
   color: white;
   display: none;
   position: absolute;
-  width: 250px;
-  height: 460px;
+  width: 248px;
+  height: 25 px;
   top: -100px;
   right: 0px;
-  border-radius: 2px 2px 10px 10px;
-  box-shadow: grey 1px 1px 19px 1px;
+  /* border-radius: 2px 2px 10px 10px; */
+  box-shadow: rgb(214, 208, 208) 1px 1px 19px 1px;
   font-size: 20px;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
     Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
-h4 {
+h5 {
   color: rgb(238, 195, 53);
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-weight: 600;
 }
 .card1:hover .summury {
   display: block;
-  background-color: rgba(44, 43, 43, 0.877);
+  background-color: rgba(15, 15, 15, 0.637);
   margin-top: 100px;
 }
